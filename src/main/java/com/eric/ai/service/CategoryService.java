@@ -24,7 +24,10 @@ public class CategoryService {
         Category category = DtoDomainMapper.dtoToCategoryBuilder(categoryDto);
         List<String> itemParents = new ArrayList<>(category.getParents());
         itemParents.add(category.getName());
-        category.getItems().forEach(item -> item.addParents(itemParents));
+        category.getItems().forEach(item -> {
+            item.addParents(itemParents);
+            item.setCategory(category.getName());
+        });
         category.getChildNames().stream()
                 .map(name -> buildChildCategory(categoryFileDto, name))
                 .forEach(category::addChild);

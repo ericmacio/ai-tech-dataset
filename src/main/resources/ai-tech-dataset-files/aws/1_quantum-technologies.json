@@ -1,0 +1,22 @@
+{
+  "name": "quantum-technologies",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "quantum computing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Bracket"
+          ]
+        }
+      ]
+    }
+  ]
+}

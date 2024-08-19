@@ -1,0 +1,244 @@
+{
+  "name": "storage",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Industry leading price point for storing rarely accessed data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Archive Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Run high-performance, file-based workloads in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Avere vFXT for Azure"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify data protection with built-in backup management at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Backup"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Scalable, secure data lake for high-performance analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Lake Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Hyperscale repository for big data analytics workloads",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Lake Storage Gen1"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A simple and safe service for sharing big data with external organizations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Share"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simple, secure and serverless enterprise-grade cloud file shares",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Files"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Hybrid storage optimization solution for HPC environments",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure FXT Edge Filer"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "File caching for high-performance computing (HPC)",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure HPC Cache"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Enterprise-grade Azure file shares, powered by NetApp",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure NetApp Files"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Massively scalable and secure object storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Blob Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Appliances and solutions for data transfer to Azure and edge compute",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Data Box"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "High-performance, highly durable block storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Disk Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Effectively scale apps according to traffic",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Queue Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Durable, highly available, and massively scalable cloud storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Storage Accounts"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "View and interact with Azure storage resources",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Storage Explorer"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Lower costs with an enterprise hybrid cloud storage solution",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "StorSimple"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure confidential ledger�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

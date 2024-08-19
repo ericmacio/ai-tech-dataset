@@ -1,0 +1,127 @@
+{
+  "name": "developer-tools",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Fast, scalable parameter storage for app configuration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Configuration"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Services for teams to share code, track work, and ship software",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DevOps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Quickly create environments using reusable templates and artifacts",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DevTest Labs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Set up labs for classrooms, trials, development and testing, and other scenarios",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Lab Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Continuously build, test, and deploy to any platform and cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Pipelines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Get the SDKs and command-line tools you need",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "SDKs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Powerful and flexible environment to develop apps in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Visual Studio"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A powerful, lightweight code editor for cloud development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Visual Studio Code"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Optimize app performance with high-scale load testing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Load Testing�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

@@ -1,0 +1,178 @@
+{
+  "name": "compute",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "image build check",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon EC2 Image Builder"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "container hosting",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "BottleRocket"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "high performance cluster",
+      "acronym": "HPC",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Parallel Cluster"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "remote display",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "NICE DCV"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "isolated execution environment",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Nitro Enclaves"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "automatic integration and delivery pipeline",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS App Runner"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "job control",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Nice EngineFrame"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "batch jobs",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Batch"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "real-time large-scale spatial simulations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS SimSpace Weaver"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "compute instance for web application",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Compute Cloud (EC2)",
+            "Amazon Lightsail"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "web application deployment",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elastic Beanstalk"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "serverless function as a service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Lambda"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "customer premises",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Outposts"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "serverless application repository",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Serverless Application Repository"
+          ]
+        }
+      ]
+    }
+  ]
+}

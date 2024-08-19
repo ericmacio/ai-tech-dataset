@@ -1,0 +1,270 @@
+{
+  "name": "compute",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Quickly create powerful cloud apps for web and mobile",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Service"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create, manage, operate, and optimize HPC and big compute clusters of any scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure CycleCloud"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Accelerate your development lifecycle by building your quantum solution once and running it on multiple systems with little to no change",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Quantum�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Provision unused compute capacity at deep discounts to run interruptible workloads",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Spot Virtual Machines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Spring Cloud"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Run your VMware workloads natively on Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure VMware Solution"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Cloud-scale job scheduling and compute management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Batch"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create highly-available, infinitely-scalable cloud applications and APIs",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Cloud Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Provision virtual machines for Ubuntu, Red Hat, and more",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Linux Virtual Machines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "SQL Server on Azure Virtual Machines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Streamlined full-stack development from source code to global high availability",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Static Web Apps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Manage and scale up to thousands of Linux and Windows VMs",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Virtual Machine Scale Sets"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Provision Windows and Linux VMs in seconds",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Virtual Machines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Enable a secure, remote desktop experience from anywhere",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Virtual Desktop"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A dedicated physical server to host your Azure VMs for Windows and Linux",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Dedicated Host"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify your image building process with easy to use tool",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure VM Image Builder"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deploy and scale containers on managed Kubernetes",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Kubernetes Service (AKS)"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Execute event-driven serverless code with an end-to-end development experience",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Functions"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Launch containers with hypervisor isolation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Container Instances"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deploy and operate always-on, scalable, distributed apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Service Fabric"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

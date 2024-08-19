@@ -8,7 +8,9 @@ import java.util.stream.Stream;
 
 public class Item {
 
-    private String name;
+    private String category;
+    private String domain;
+    private String description;
     private String acronym;
     private List<Instance> instances;
     private final List<String> parents = new ArrayList<>();
@@ -16,10 +18,26 @@ public class Item {
     public Item() {
     }
 
-    public Item(String name, String acronym, List<Instance> instances) {
-        this.name = name;
+    public Item(String description, String acronym, List<Instance> instances) {
+        this.description = description;
         this.acronym = acronym;
         this.instances = instances;
+    }
+
+    public String getCategory() {
+        return category;
+    }
+
+    public void setCategory(String category) {
+        this.category = category;
+    }
+
+    public String getDomain() {
+        return domain;
+    }
+
+    public void setDomain(String domain) {
+        this.domain = domain;
     }
 
     public String getAcronym() {
@@ -30,12 +48,12 @@ public class Item {
         this.acronym = acronym;
     }
 
-    public String getName() {
-        return name;
+    public String getDescription() {
+        return description;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setDescription(String name) {
+        this.description = name;
     }
 
     public List<Instance> getInstances() {
@@ -59,18 +77,18 @@ public class Item {
         if (this == o) return true;
         if (o == null || getClass() != o.getClass()) return false;
         Item item = (Item) o;
-        return Objects.equals(name, item.name);
+        return Objects.equals(description, item.description);
     }
 
     @Override
     public int hashCode() {
-        return Objects.hashCode(name);
+        return Objects.hashCode(description);
     }
 
     @Override
     public String toString() {
         return "Item{" +
-                "name='" + name + '\'' +
+                "name='" + description + '\'' +
                 ", acronym='" + acronym + '\'' +
                 ", instances=" + instances +
                 ", parents=" + parents +
@@ -80,22 +98,18 @@ public class Item {
     public void display() {
         StringBuilder parentsStr = new StringBuilder();
         this.parents.forEach(p -> parentsStr.append("/").append(p));
-        System.out.println("[" + parentsStr + "] " + this.name);
+        System.out.println("[" + parentsStr + "] " + this.description);
     }
 
     public Stream<String> getDataStream(String separator, String categoryAcronym) {
         StringBuilder dataStr = new StringBuilder();
-        dataStr.append(this.parents.get(1)).append(separator);
-        if(categoryAcronym != null)
-            dataStr.append(categoryAcronym);
+        dataStr.append(this.parents.get(1));
         for(int i = 2; i < this.parents.size(); i++) {
             dataStr.append(separator).append(this.parents.get(i));
         }
         if(this.parents.size() < 3)
             dataStr.append(separator);
-        dataStr.append(separator).append(this.name).append(separator);
-        if(this.acronym != null)
-            dataStr.append(this.acronym);
+        dataStr.append(separator).append(this.domain).append(separator).append(this.description);
         return this.instances.stream()
                 .flatMap(instance -> instance.getDataStream(separator, dataStr.toString()));
     }

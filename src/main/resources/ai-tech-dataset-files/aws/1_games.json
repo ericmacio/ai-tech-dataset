@@ -1,0 +1,34 @@
+{
+  "name": "games",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "game server",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon GameLift"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "game engine integration toolkit",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS GameKit"
+          ]
+        }
+      ]
+    }
+  ]
+}

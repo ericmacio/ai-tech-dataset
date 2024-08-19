@@ -1,0 +1,285 @@
+artificial-intelligence;application anomalies detection;AI Anomaly Detector
+artificial-intelligence;bots creation and connection;Azure AI Bot Services
+artificial-intelligence;search and retrieval;Azure AI Search
+artificial-intelligence;Design AI with Apache Spark™-based analytics;Azure Databricks
+artificial-intelligence;An enterprise-grade service for the end-to-end machine learning lifecycle;Azure Machine Learning
+artificial-intelligence;Cloud platform to host and share curated open datasets to accelerate development of machine learning models;Azure Open Datasets
+artificial-intelligence;Add cognitive capabilities to apps with APIs and AI services;Azure Cognitive Services
+artificial-intelligence;An AI service for quickly building video analytics solutions;Azure Video Analyzer PREVIEW
+artificial-intelligence;Distill actionable information from images;computer Vision
+artificial-intelligence;Automated image, text, and video moderation;Content Moderator
+artificial-intelligence;Easily customize your own state-of-the-art computer vision models for your unique use case;Custom Vision
+artificial-intelligence;Rich pre-configured environment for AI development;Data Science Virtual Machines
+artificial-intelligence;Detect, identify, analyze, organize, and tag faces in photos;Face API
+artificial-intelligence;The AI-powered document extraction service that understands your forms;Azure Form Recognizer
+artificial-intelligence;Empower users of all ages and abilities to read and comprehend text;Azure Immersive Reader
+artificial-intelligence;Build for mixed reality using AI sensors;Kinect DK
+artificial-intelligence;Teach your apps to understand commands from your users;Language Understanding (LUIS)
+artificial-intelligence;Power genome sequencing & research insights;Microsoft Genomics
+artificial-intelligence;Deliver personalized, relevant experiences for each of your users;Personalizer
+artificial-intelligence;Create intelligent industrial control systems using simulations;Project Bonsai PREVIEW
+artificial-intelligence;Distill information into conversational, easy-to-navigate answers;QnA Maker
+artificial-intelligence;A Speech service feature that verifies and identifies speakers;Speaker recognition
+artificial-intelligence;A Speech service feature that accurately converts spoken audio to text;Speech to text
+artificial-intelligence;Easily integrate real-time speech translation to your app;Speech translation
+artificial-intelligence;Add natural language capabilities with a single API call;Cognitive Service for Language
+artificial-intelligence;A Speech service feature that converts text to lifelike speech;Text to speech
+artificial-intelligence;Easily conduct machine translation with a simple REST API call;Translator
+artificial-intelligence;An AI service that monitors metrics and diagnoses issues;Azure Metrics Advisor
+artificial-intelligence;A managed service purpose-built for development of virtual healthcare assistants;Health Bot
+artificial-intelligence;Accelerate edge intelligence from silicon to service;Azure Percept PREVIEW
+artificial-intelligence;Specialized services that enable organizations to accelerate time to value in applying AI to solve common scenarios;Azure Applied AI Services
+artificial-intelligence;Apply advanced language models to a variety of use cases;Azure OpenAI Service PREVIEW
+analytics;Enterprise-grade analytics engine as a service;Azure Analysis Services
+analytics;Fast and highly scalable data exploration service;Azure Data Explorer
+analytics;Hybrid data integration at enterprise scale, made easy;Azure Data Factory
+analytics;Scalable, secure data lake for high-performance analytics;Azure Data Lake Storage
+analytics;Hyperscale repository for big data analytics workloads;Azure Data Lake Storage Gen1
+analytics;A simple and safe service for sharing big data with external organizations;Azure Data Share
+analytics;Design AI with Apache Spark™-based analytics;Azure Databricks
+analytics;Real-time analytics on fast-moving streaming data;Azure Stream Analytics
+analytics;Limitless analytics with unmatched time to insight;Azure Synapse Analytics
+analytics;Get more value from your enterprise data assets;Data Catalog
+analytics;Distributed analytics service that makes big data easy;Data Lake Analytics
+analytics;Receive telemetry from millions of devices;Event Hubs
+analytics;Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters;HDInsight
+analytics;White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications;Power BI Embedded
+analytics;Predictive analytics, machine learning, and statistical modeling for big data;R Server for HDInsight
+analytics;A unified data governance solution that maximizes the business value of your data;Azure Purview
+analytics;A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant;Microsoft Graph Data Connect PREVIEW
+analytics;Improve application resilience by introducing faults and simulating outages;Azure Chaos Studio PREVIEW
+compute;Quickly create powerful cloud apps for web and mobile;App Service
+compute;Create, manage, operate, and optimize HPC and big compute clusters of any scale;Azure CycleCloud
+compute;Accelerate your development lifecycle by building your quantum solution once and running it on multiple systems with little to no change;Azure Quantum PREVIEW
+compute;Provision unused compute capacity at deep discounts to run interruptible workloads;Azure Spot Virtual Machines
+compute;Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware;Azure Spring Cloud
+compute;Run your VMware workloads natively on Azure;Azure VMware Solution
+compute;Cloud-scale job scheduling and compute management;Batch
+compute;Create highly-available, infinitely-scalable cloud applications and APIs;Cloud Services
+compute;Provision virtual machines for Ubuntu, Red Hat, and more;Linux Virtual Machines
+compute;Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO);SQL Server on Azure Virtual Machines
+compute;Streamlined full-stack development from source code to global high availability;Static Web Apps
+compute;Manage and scale up to thousands of Linux and Windows VMs;Virtual Machine Scale Sets
+compute;Provision Windows and Linux VMs in seconds;Virtual Machines
+compute;Enable a secure, remote desktop experience from anywhere;Azure Virtual Desktop
+compute;A dedicated physical server to host your Azure VMs for Windows and Linux;Azure Dedicated Host
+compute;Simplify your image building process with easy to use tool;Azure VM Image Builder
+compute;Deploy and scale containers on managed Kubernetes;Azure Kubernetes Service (AKS)
+compute;Execute event-driven serverless code with an end-to-end development experience;Azure Functions
+compute;Launch containers with hypervisor isolation;Azure Container Instances
+compute;Deploy and operate always-on, scalable, distributed apps;Azure Service Fabric
+containers;Fast, scalable parameter storage for app configuration;App Configuration
+containers;Deploy and scale containers on managed Kubernetes;Azure Kubernetes Service (AKS)
+containers;Deploy and scale containers on managed Red Hat OpenShift;Azure Red Hat OpenShift
+containers;Build and deploy modern apps and microservices using serverless containers;Azure Container Apps PREVIEW
+containers;Execute event-driven serverless code with an end-to-end development experience;Azure Functions
+containers;Run containerized web apps on Windows and Linux;Web App for containers
+containers;Launch containers with hypervisor isolation;Azure Container Instances
+containers;Deploy and operate always-on, scalable, distributed apps;Azure Service Fabric
+containers;Build, store, secure, and replicate container images and artifacts;Azure Container Registry
+database;Accelerate apps with high-throughput, low-latency data caching;Azure Cache for Redis
+database;Build or modernize scalable, high-performance apps;Azure Cosmos DB
+database;Hybrid data integration at enterprise scale, made easy;Azure Data Factory
+database;Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB;Azure Database for MariaDB
+database;Fully managed, scalable MySQL Database;Azure Database for MySQL
+database;Fully managed, intelligent, and scalable PostgreSQL;Azure Database for PostgreSQL
+database;Simplify on-premises database migration to the cloud;Azure Database Migration Service
+database;Modern SQL family for migration and app modernization;Azure SQL
+database;Managed, intelligent SQL in the cloud;Azure SQL Database
+database;Consume Services privately on Azure Platform;Azure SQL Edge
+database;Managed, always up-to-date SQL instance in the cloud;Azure SQL Managed Instance
+database;Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO);SQL Server on Azure Virtual Machines
+database;NoSQL key-value store using semi-structured datasets;Table Storage
+database;Modernize Cassandra data clusters with a managed instance in the cloud;Azure Managed Instance for Apache Cassandra
+database;Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence;Azure confidential ledger PREVIEW
+developer-tools;Fast, scalable parameter storage for app configuration;App Configuration
+developer-tools;Services for teams to share code, track work, and ship software;Azure DevOps
+developer-tools;Quickly create environments using reusable templates and artifacts;Azure DevTest Labs
+developer-tools;Set up labs for classrooms, trials, development and testing, and other scenarios;Azure Lab Services
+developer-tools;Continuously build, test, and deploy to any platform and cloud;Azure Pipelines
+developer-tools;Get the SDKs and command-line tools you need;SDKs
+developer-tools;Powerful and flexible environment to develop apps in the cloud;Visual Studio
+developer-tools;A powerful, lightweight code editor for cloud development;Visual Studio Code
+developer-tools;Optimize app performance with high-scale load testing;Azure Load Testing PREVIEW
+devops;Create, host, and share packages with your team;Azure Artifacts
+devops;Plan, track, and discuss work across your teams;Azure Boards
+devops;Services for teams to share code, track work, and ship software;Azure DevOps
+devops;Quickly create environments using reusable templates and artifacts;Azure DevTest Labs
+devops;Full observability into your applications, infrastructure, and network;Azure Monitor
+devops;Continuously build, test, and deploy to any platform and cloud;Azure Pipelines
+devops;Get unlimited, cloud-hosted private Git repos for your project;Azure Repos
+devops;Test and ship confidently with an exploratory test toolkit;Azure Test Plans
+devops;Use your favorite DevOps tools with Azure;DevOps tool integrations
+devops;Optimize app performance with high-scale load testing;Azure Load Testing PREVIEW
+hybrid-multicloud;Synchronize on-premises directories and enable single sign-on;Azure Active Directory (Azure AD)
+hybrid-multicloud;Secure, develop, and operate infrastructure, apps, and Azure services anywhere;Azure Arc
+hybrid-multicloud;Fully managed, intelligent, and scalable PostgreSQL;Azure Database for PostgreSQL
+hybrid-multicloud;Services for teams to share code, track work, and ship software;Azure DevOps
+hybrid-multicloud;Experience a fast, reliable, and private connection to Azure;Azure ExpressRoute
+hybrid-multicloud;Extend cloud intelligence and analytics to edge devices;Azure IoT Edge
+hybrid-multicloud;Cloud-native SIEM and intelligent security analytics;Microsoft Sentinel
+hybrid-multicloud;Managed, intelligent SQL in the cloud;Azure SQL Database
+hybrid-multicloud;Consume Services privately on Azure Platform;Azure SQL Edge
+hybrid-multicloud;Build and run innovative hybrid apps across cloud boundaries;Azure Stack
+hybrid-multicloud;Extend threat protection to any infrastructure;Microsoft Defender for Cloud
+hybrid-multicloud;Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure;Azure Stack HCI
+hybrid-multicloud;Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware;Azure Stack Hub
+hybrid-multicloud;An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge;Azure Stack Edge
+hybrid-multicloud;A complete, rugged datacenter solution;Azure Modular Datacenter
+identity;Synchronize on-premises directories and enable single sign-on;Azure Active Directory (Azure AD)
+identity;Manage your domain controllers in the cloud;Azure Active Directory Domain Services
+identity;Better protect your sensitive information—anytime, anywhere;Azure Information Protection
+identity;Consumer identity and access management in the cloud;Azure Active Directory External Identities
+integration;Publish APIs to developers, partners, and employees securely and at scale;API Management
+integration;A unified solution that helps protect and combine health data in the cloud and generates healthcare insights with analytics;Azure Healthcare APIs PREVIEW
+integration;Reliable event delivery at massive scale;Event Grid
+integration;Automate the access and use of data across clouds;Logic Apps
+integration;Connect across private and public cloud environments;Service Bus
+integration;Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern;Azure Web PubSub
+Internet-of-things;Publish APIs to developers, partners, and employees securely and at scale;API Management
+Internet-of-things;Build or modernize scalable, high-performance apps;Azure Cosmos DB
+Internet-of-things;Use IoT spatial intelligence to create models of physical environments;Azure Digital Twins
+Internet-of-things;Build IoT solutions on a hosted platform;Azure IoT Central
+Internet-of-things;Extend cloud intelligence and analytics to edge devices;Azure IoT Edge
+Internet-of-things;Connect, monitor, and manage billions of IoT assets;Azure IoT Hub
+Internet-of-things;An enterprise-grade service for the end-to-end machine learning lifecycle;Azure Machine Learning
+Internet-of-things;Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure;Azure Maps
+Internet-of-things;Making embedded IoT development and connectivity easy;Azure RTOS
+Internet-of-things;Securely connect MCU-powered devices from the silicon to the cloud;Azure Sphere
+Internet-of-things;Consume Services privately on Azure Platform;Azure SQL Edge
+Internet-of-things;Real-time analytics on fast-moving streaming data;Azure Stream Analytics
+Internet-of-things;Visualize IoT data in real time;Azure Time Series Insights
+Internet-of-things;Reliable event delivery at massive scale;Event Grid
+Internet-of-things;Build for mixed reality using AI sensors;Kinect DK
+Internet-of-things;Automate the access and use of data across clouds;Logic Apps
+Internet-of-things;Send push notifications to any platform from any back end;Notification Hubs
+Internet-of-things;Long-term OS support and services to manage device updates and assess device health;Windows 10 IoT Core Services
+Internet-of-things;Continuous asset discovery, vulnerability management, and threat detection for your Internet-of-things (IoT) and operational technology (OT) devices;Microsoft Defender for IoT
+Internet-of-things;Accelerate edge intelligence from silicon to service;Azure Percept PREVIEW
+Internet-of-things;Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.;Windows for IoT
+Internet-of-things;Execute event-driven serverless code with an end-to-end development experience;Azure Functions
+management-and-governance;Simplify cloud management with process automation;Automation
+management-and-governance;Your personalized Azure best practices recommendation engine;Azure Advisor
+management-and-governance;Simplify data protection with built-in backup management at scale;Azure Backup
+management-and-governance;Enabling quick, repeatable creation of governed environments;Azure Blueprints PREVIEW
+management-and-governance;Empowering service providers to manage customers at scale and with precision;Azure Lighthouse
+management-and-governance;Simplify management of cloud offerings;Azure Managed Applications
+management-and-governance;Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure;Azure Migrate
+management-and-governance;Stay connected to your Azure resources—anytime, anywhere;Azure mobile app
+management-and-governance;Full observability into your applications, infrastructure, and network;Azure Monitor
+management-and-governance;Implement corporate governance and standards at scale;Azure Policy
+management-and-governance;Simplify how you manage your app resources;Azure Resource Manager
+management-and-governance;Deliver infrastructure as code for all your Azure resources using Resource Manager;Azure Resource Manager templates
+management-and-governance;Personalized guidance and support for when issues in Azure services affect you;Azure Service Health
+management-and-governance;Keep your business running with built-in disaster recovery service;Azure Site Recovery
+management-and-governance;Streamline Azure administration with a browser-based shell;Cloud Shell
+management-and-governance;Manage your cloud spending with confidence;Azure Cost Management and Billing
+management-and-governance;Build, manage, and monitor all Azure products in a single, unified console;Microsoft Azure portal
+management-and-governance;Network performance monitoring and diagnostics solution;Network Watcher
+management-and-governance;Route incoming traffic for high performance and availability;Traffic Manager
+management-and-governance;Simplify and optimize IT management with automated operations;Azure Automanage PREVIEW
+management-and-governance;Simplify how you move multiple resources between Azure regions;Azure Resource Mover
+management-and-governance;A unified data governance solution that maximizes the business value of your data;Azure Purview
+management-and-governance;Improve application resilience by introducing faults and simulating outages;Azure Chaos Studio PREVIEW
+media-services;A single player for all your playback needs;Azure Media Player
+media-services;Fast, reliable content delivery network with global reach;Content Delivery Network
+media-services;Securely deliver content using AES, PlayReady, Widevine, and Fairplay;Content Protection
+media-services;Studio grade encoding at cloud scale;Encoding
+media-services;Deliver content to virtually all devices with ability to scale;Live and On-Demand Streaming
+media-services;Encode, store, and stream video and audio at scale;Media Services
+migration-and-modenization;Simplify on-premises database migration to the cloud;Azure Database Migration Service
+migration-and-modenization;Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure;Azure Migrate
+migration-and-modenization;Keep your business running with built-in disaster recovery service;Azure Site Recovery
+migration-and-modenization;Manage your cloud spending with confidence;Azure Cost Management and Billing
+migration-and-modenization;Appliances and solutions for data transfer to Azure and edge compute;Data Box
+mixed-reality;Use IoT spatial intelligence to create models of physical environments;Azure Digital Twins
+mixed-reality;Build for mixed reality using AI sensors;Kinect DK
+mixed-reality;Render high-quality, interactive 3D content with real-time streaming;Remote Rendering
+mixed-reality;Create multi-user, spatially aware mixed reality experiences;Spatial Anchors
+mixed-reality;Automatically align and anchor 3D content to objects in the physical world;Object Anchors PREVIEW
+mobile;Publish APIs to developers, partners, and employees securely and at scale;API Management
+mobile;Fast, scalable parameter storage for app configuration;App Configuration
+mobile;Quickly create powerful cloud apps for web and mobile;App Service
+mobile;Enterprise scale search for app development;Azure Cognitive Search
+mobile;Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure;Azure Maps
+mobile;Add cognitive capabilities to apps with APIs and AI services;Azure Cognitive Services
+mobile;Send push notifications to any platform from any back end;Notification Hubs
+mobile;Create multi-user, spatially aware mixed reality experiences;Spatial Anchors
+mobile;Build, test, release, and monitor your mobile and desktop apps;Visual Studio App Center
+mobile;Create cloud-powered mobile apps faster;Xamarin
+mobile;Build rich communication experiences with the same secure platform used by Microsoft Teams;Azure Communication Services
+networking-and-content-delivery;Build secure, scalable, highly available web front ends in Azure;Application Gateway
+networking-and-content-delivery;Private and fully managed RDP and SSH access to your virtual machines;Azure Bastion
+networking-and-content-delivery;Protect your applications from Distributed Denial of Service (DDoS) attacks;Azure DDoS Protection
+networking-and-content-delivery;Host your DNS domain in Azure;Azure DNS
+networking-and-content-delivery;Experience a fast, reliable, and private connection to Azure;Azure ExpressRoute
+networking-and-content-delivery;Cloud-native and intelligent network firewall security;Azure Firewall
+networking-and-content-delivery;Deliver high availability and network performance to your apps;Load Balancer
+networking-and-content-delivery;Central network security policy and route management for globally distributed, software-defined perimeters;Azure Firewall Manager
+networking-and-content-delivery;Fast, reliable, and more secure cloud content delivery service with intelligent threat protection;Azure Front Door
+networking-and-content-delivery;Test how networking infrastructure changes will impact your customers' performance.;Azure Internet Analyzer PREVIEW
+networking-and-content-delivery;Private access to services hosted on the Azure platform, keeping your data on the Microsoft network;Azure Private Link
+networking-and-content-delivery;Fast, reliable content delivery network with global reach;Content Delivery Network
+networking-and-content-delivery;Network performance monitoring and diagnostics solution;Network Watcher
+networking-and-content-delivery;Route incoming traffic for high performance and availability;Traffic Manager
+networking-and-content-delivery;Provision private networks, optionally connect to on-premises datacenters;Virtual Network
+networking-and-content-delivery;Optimize and automate branch to branch connectivity through Azure;Virtual WAN
+networking-and-content-delivery;Establish secure, cross-premises connectivity;VPN Gateway
+networking-and-content-delivery;A cloud-native web application firewall (WAF) service that provides powerful protection for web apps;Web Application Firewall
+networking-and-content-delivery;Satellite ground station and scheduling services for fast downlinking of data;Azure Orbital PREVIEW
+networking-and-content-delivery;Enable network appliances to exchange routes dynamically with virtual networks in Azure;Azure Route Server
+networking-and-content-delivery;Extend Azure management for deploying 5G and SD-WAN network functions on edge devices;Azure Network Function Manager
+networking-and-content-delivery;Centrally manage virtual networks in Azure from a single pane of glass;Azure Virtual Network Manager PREVIEW
+networking-and-content-delivery;Rapidly deploy and manage private 5G networks at the enterprise edge;Azure Private 5G Core PREVIEW
+security-and-compliance;Fast, scalable parameter storage for app configuration;App Configuration
+security-and-compliance;Build secure, scalable, highly available web front ends in Azure;Application Gateway
+security-and-compliance;Synchronize on-premises directories and enable single sign-on;Azure Active Directory (Azure AD)
+security-and-compliance;Manage your domain controllers in the cloud;Azure Active Directory Domain Services
+security-and-compliance;Protect your multi-cloud and hybrid environments;Microsoft Defender for Cloud
+security-and-compliance;Protect your applications from Distributed Denial of Service (DDoS) attacks;Azure DDoS Protection
+security-and-compliance;Manage hardware security modules that you use in the cloud;Azure Dedicated HSM
+security-and-compliance;Fast, reliable, and more secure cloud content delivery service with intelligent threat protection;Azure Front Door
+security-and-compliance;Better protect your sensitive information—anytime, anywhere;Azure Information Protection
+security-and-compliance;Cloud-native SIEM and intelligent security analytics;Microsoft Sentinel
+security-and-compliance;Safeguard and maintain control of keys and other secrets;Key Vault
+security-and-compliance;Extend threat protection to any infrastructure;Microsoft Defender for Cloud
+security-and-compliance;Establish secure, cross-premises connectivity;VPN Gateway
+security-and-compliance;A cloud-native web application firewall (WAF) service that provides powerful protection for web apps;Web Application Firewall
+security-and-compliance;Continuous asset discovery, vulnerability management, and threat detection for your Internet-of-things (IoT) and operational technology (OT) devices;Microsoft Defender for IoT
+security-and-compliance;A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it;Microsoft Azure Attestation
+security-and-compliance;Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence;Azure confidential ledger PREVIEW
+storage;Industry leading price point for storing rarely accessed data;Archive Storage
+storage;Run high-performance, file-based workloads in the cloud;Avere vFXT for Azure
+storage;Simplify data protection with built-in backup management at scale;Azure Backup
+storage;Scalable, secure data lake for high-performance analytics;Azure Data Lake Storage
+storage;Hyperscale repository for big data analytics workloads;Azure Data Lake Storage Gen1
+storage;A simple and safe service for sharing big data with external organizations;Azure Data Share
+storage;Simple, secure and serverless enterprise-grade cloud file shares;Azure Files
+storage;Hybrid storage optimization solution for HPC environments;Azure FXT Edge Filer
+storage;File caching for high-performance computing (HPC);Azure HPC Cache
+storage;Enterprise-grade Azure file shares, powered by NetApp;Azure NetApp Files
+storage;Massively scalable and secure object storage;Azure Blob Storage
+storage;Appliances and solutions for data transfer to Azure and edge compute;Data Box
+storage;High-performance, highly durable block storage;Azure Disk Storage
+storage;Effectively scale apps according to traffic;Queue Storage
+storage;Durable, highly available, and massively scalable cloud storage;Storage Accounts
+storage;View and interact with Azure storage resources;Storage Explorer
+storage;Lower costs with an enterprise hybrid cloud storage solution;StorSimple
+storage;Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence;Azure confidential ledger PREVIEW
+virtual-desktop-infrastructure;Enable a secure, remote desktop experience from anywhere;Azure Virtual Desktop
+virtual-desktop-infrastructure;Provision Windows desktops and apps with VMware and Azure Virtual Desktop;VMware Horizon Cloud on Microsoft Azure
+virtual-desktop-infrastructure;Provision Windows desktops and apps on Azure with Citrix and Azure Virtual Desktop;Citrix Virtual Apps and Desktops for Azure
+web;Publish APIs to developers, partners, and employees securely and at scale;API Management
+web;Fast, scalable parameter storage for app configuration;App Configuration
+web;Quickly create powerful cloud apps for web and mobile;App Service
+web;Enterprise scale search for app development;Azure Cognitive Search
+web;Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure;Azure Maps
+web;Add real-time web functionalities easily;Azure SignalR Service
+web;Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware;Azure Spring Cloud
+web;Fast, reliable content delivery network with global reach;Content Delivery Network
+web;Send push notifications to any platform from any back end;Notification Hubs
+web;Streamlined full-stack development from source code to global high availability;Static Web Apps
+web;Build rich communication experiences with the same secure platform used by Microsoft Teams;Azure Communication Services
+web;Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern;Azure Web PubSub
+web;Easily add real-time collaborative experiences to your apps with Fluid Framework;Azure Fluid Relay PREVIEW
+web;Run containerized web apps on Windows and Linux;Web App for containers

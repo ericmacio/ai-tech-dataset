@@ -1,0 +1,94 @@
+{
+  "name": "application-integration",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "notification service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Simple Notification Service (SNS)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "message queue",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Simple Queue Service",
+            "Amazon MQ"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "data synchronization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS AppSync"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "workflows orchestration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Step Functions",
+            "AWS Express Workflows"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "events bus",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS EventBridge"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "data flow management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon AppFlow"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "B2B data interchange",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS B2B data interchange (B2Bi"
+          ]
+        }
+      ]
+    }
+  ]
+}

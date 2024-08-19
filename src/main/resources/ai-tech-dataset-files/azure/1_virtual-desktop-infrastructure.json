@@ -1,0 +1,49 @@
+{
+  "name": "virtual-desktop-infrastructure",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Enable a secure, remote desktop experience from anywhere",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Virtual Desktop"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Provision Windows desktops and apps with VMware and Azure Virtual Desktop",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "VMware Horizon Cloud on Microsoft Azure"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Provision Windows desktops and apps on Azure with Citrix and Azure Virtual Desktop",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Citrix Virtual Apps and Desktops for Azure"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

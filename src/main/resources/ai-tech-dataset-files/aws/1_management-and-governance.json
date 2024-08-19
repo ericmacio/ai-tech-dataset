@@ -1,0 +1,301 @@
+{
+  "name": "management-and-governance",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "monitoring, logs and alerts",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon CloudWatch"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "auto scaling",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Auto scaling",
+            "AWS Application Auto Scaling"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "asset audit and evaluate resources",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Config"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "software license manager",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS License Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cloud resources events and changes management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Health Dashboard"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "governance, compliance and audit of account",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CloudTrail"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "share, organize, and govern IaC templates",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Service Catalog"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "control of infrastructure resources",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Systems Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "infrastructure inspection for finance, availability and performance recommendations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Trusted Advisor"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cloud architecture audit",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Well-Architected Tool"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "setup of cloud multi account environment (landing zone)",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Control Tower"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "organization and account management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Organizations"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "centralized management of configuration data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS AppConfig"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "chatbot",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS chatbot"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "backup and restore",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Blackint Agent"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "data visualization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Managed Grafana"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "monitoring",
+      "instances": [
+        {
+          "type": "editor",
+          "provider": "opensource",
+          "products": [
+            "prometheus"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "telemetry data",
+      "instances": [
+        {
+          "type": "editor",
+          "provider": "opensource",
+          "products": [
+            "OpenTelemetry"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "deployment workflow tool",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Proton"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "configuring and deploying third party application",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Launch Wizard"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "it service management",
+      "acronym": "ITSM",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Service Management Connector (SMC)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "telecom network build",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Telco Network Builder"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "workload rightsizing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Compute Optimizer"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "console",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS console Application",
+            "AWS Console Mobile Application"
+          ]
+        }
+      ]
+    }
+  ]
+}

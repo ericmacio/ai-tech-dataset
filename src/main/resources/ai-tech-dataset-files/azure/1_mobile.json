@@ -1,0 +1,153 @@
+{
+  "name": "mobile",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Publish APIs to developers, partners, and employees securely and at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "API Management"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, scalable parameter storage for app configuration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Configuration"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Quickly create powerful cloud apps for web and mobile",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Service"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Enterprise scale search for app development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cognitive Search"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Maps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Add cognitive capabilities to apps with APIs and AI services",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cognitive Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Send push notifications to any platform from any back end",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Notification Hubs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create multi-user, spatially aware mixed reality experiences",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Spatial Anchors"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build, test, release, and monitor your mobile and desktop apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Visual Studio App Center"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create cloud-powered mobile apps faster",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Xamarin"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Communication Services"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

@@ -3,7 +3,7 @@ package com.eric.ai.dto;
 import java.util.List;
 
 public record ItemDto(
-        String name,
+        String description,
         String acronym,
         List<String> aws,
         List<String> redhat,

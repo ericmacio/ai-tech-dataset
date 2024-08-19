@@ -30,7 +30,7 @@ public class CategoryDtoService {
                 instanceList.add(new Instance("cloud", "aws", itemDto.aws()));
             }
             if(itemDto.azure() != null) {
-                instanceList.add(new Instance("cloud", "azure", itemDto.microsoft()));
+                instanceList.add(new Instance("cloud", "azure", itemDto.azure()));
             }
             if(itemDto.apache() != null) {
                 instanceList.add(new Instance("editor", "apache", itemDto.apache()));
@@ -44,7 +44,7 @@ public class CategoryDtoService {
             if(itemDto.microsoft() != null) {
                 instanceList.add(new Instance("editor", "microsoft", itemDto.microsoft()));
             }
-            itemList.add(new Item(itemDto.name(), itemDto.acronym(), instanceList));
+            itemList.add(new Item(itemDto.description(), itemDto.acronym(), instanceList));
         });
 
         return new CategoryDto(categoryName, parents, acronym, level, childNames, itemList);

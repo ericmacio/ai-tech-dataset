@@ -106,19 +106,9 @@ public class Category {
                 '}';
     }
 
-    public boolean containsWord(String keyWord) {
-        return this.getName().toLowerCase().contains(keyWord.toLowerCase()) ||
-                (this.getAcronym() != null && this.getAcronym().toLowerCase().contains(keyWord.toLowerCase())) ||
-                this.parentsContainsWordIgnoreCase(keyWord);
-    }
-
     public Stream<String> getDataStream(String separator) {
         return this.recursiveItems().stream()
                 .flatMap(item -> item.getDataStream(separator, this.acronym));
     }
 
-    private Boolean parentsContainsWordIgnoreCase(String keyWord) {
-        return this.parents.stream()
-                .anyMatch(s -> s.toLowerCase().contains(keyWord.toLowerCase()));
-    }
 }

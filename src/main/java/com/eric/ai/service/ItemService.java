@@ -18,11 +18,4 @@ public class ItemService {
                 .flatMap(Collection::stream);
     }
 
-    public static Boolean itemContainsWord(Item item, String keyWord) {
-        return item.getName().toLowerCase().contains(keyWord.toLowerCase()) ||
-                item.instancesContainsWordIgnoreCase(keyWord) ||
-                (item.getAcronym() != null && item.getAcronym().toLowerCase().contains(keyWord.toLowerCase())) ||
-                item.parentsContainsWordIgnoreCase(keyWord);
-
-    }
 }

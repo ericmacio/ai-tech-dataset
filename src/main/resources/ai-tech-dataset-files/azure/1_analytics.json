@@ -1,0 +1,276 @@
+{
+  "name": "analytics",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "domain": "data analytics platform",
+      "description": "Enterprise-grade analytics engine as a service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Analysis Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "enterprise search",
+      "description": "Fast and highly scalable data exploration service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Explorer"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data integration and ETL",
+      "description": "Hybrid data integration at enterprise scale, made easy",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Factory"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics repository",
+      "description": "Scalable, secure data lake for high-performance analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Lake Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics repository",
+      "description": "Hyperscale repository for big data analytics workloads",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Lake Storage Gen1"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics sharing",
+      "description": "A simple and safe service for sharing big data with external organizations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Share"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics platform",
+      "description": "Design AI with Apache Spark-based analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Databricks"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics platform",
+      "description": "Unified analytics platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Fabric"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "stream data",
+      "description": "Real-time analytics on fast-moving streaming data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Stream Analytics"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics platform",
+      "description": "Limitless analytics with unmatched time to insight",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Synapse Analytics"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "metadata",
+      "description": "Get more value from your enterprise data assets",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Data Catalog"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data analytics platform",
+      "description": "Distributed analytics service that makes big data easy",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Data Lake Analytics"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data ingestion",
+      "description": "Receive telemetry from millions of devices",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Event Hubs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "big data",
+      "description": "Provision cloud Hadoop, Spark, R Server, HBase, and Storm clusters",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "HDInsight"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "business intelligence (BI) platform",
+      "description": "White label Power BI to quickly and easily provide exceptional customer facing dashboards and analytics in your own applications",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Power BI Embedded"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "big data",
+      "description": "Predictive analytics, machine learning, and statistical modeling for big data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "R Server for HDInsight"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data governance",
+      "description": "A unified data governance solution that maximizes the business value of your data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Purview"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "data connection",
+      "description": "A secure, high-throughput connector designed to copy select Microsoft 365 productivity datasets into your Azure tenant",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Graph Data Connect"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "domain": "application resilience",
+      "description": "Improve application resilience by introducing faults and simulating outages",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Chaos Studio"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "name": "hybrid-multicloud",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Synchronize on-premises directories and enable single sign-on",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Active Directory (Azure AD)"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Secure, develop, and operate infrastructure, apps, and Azure services anywhere",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Arc"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fully managed, intelligent, and scalable PostgreSQL",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Database for PostgreSQL"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Services for teams to share code, track work, and ship software",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DevOps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Experience a fast, reliable, and private connection to Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure ExpressRoute"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Extend cloud intelligence and analytics to edge devices",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure IoT Edge"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Cloud-native SIEM and intelligent security analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Sentinel"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Managed, intelligent SQL in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL Database"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Consume Services privately on Azure Platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL Edge"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build and run innovative hybrid apps across cloud boundaries",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Stack"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Extend threat protection to any infrastructure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Defender for Cloud"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Run your production workloads anywhere on hybrid, familiar hyperconverged infrastructure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Stack HCI"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Azure Stack Hub is sold as an integrated hardware system, with software pre-installed on validated hardware",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Stack Hub"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "An Azure managed device that brings the compute, storage, and intelligence of Azure to the edge",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Stack Edge"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A complete, rugged datacenter solution",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Modular Datacenter"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

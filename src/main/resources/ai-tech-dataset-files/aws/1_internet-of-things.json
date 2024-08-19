@@ -1,0 +1,165 @@
+{
+  "name": "internet-of-things",
+  "parents": ["master-categories"],
+  "acronym": "IoT",
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "real time operating system for microcontrollers",
+      "instances": [
+        {
+          "type": "editor",
+          "provider": "opensource",
+          "products": [
+            "Free RTOS"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "iot data analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "wifi button device",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT Button"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "iot device connect and message transfer ",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT Core"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "iot device fleet security",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT Device Defender"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "iot device management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT Device Management"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "iot device fleet monitoring and actions",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT Events"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "device software build and management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT GreenGrass"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "collect store monitor data from industrial equipment",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT SiteWise"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "connectivity module",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT ExpressLink"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "build digital twins",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT TwinMaker"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "robot interoperability data collect and standardization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT Robborunner"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "vehicle data collect transform and transfer",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS IoT FleetWise"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "ai_natural-language-understanding",
+  "parents": [
+    "master-categories",
+    "artificial-intelligence"
+  ],
+  "level": 2,
+  "childNames": [],
+  "items": [
+    {
+      "description": "automatic speech recognition",
+      "acronym": "ASR",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Transcribe"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "transcribe health patient-clinician conversation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS HealthScribe"
+          ]
+        }
+      ]
+    }
+  ]
+}

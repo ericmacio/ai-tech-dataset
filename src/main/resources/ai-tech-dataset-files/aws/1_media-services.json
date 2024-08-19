@@ -1,0 +1,174 @@
+{
+  "name": "media-services",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "video transcoder",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Transcoder",
+            "AWS Elemental Video Convert",
+            "AWS Elemental MediaConvert"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "video transport",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental MediaConnect"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "broadcast live video processing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental MediaLive",
+            "AWS Elemental Conductor",
+            "AWS Elemental Delta",
+            "AWS Elemental Live",
+            "AWS Elemental Server"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "package, distribute video",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental MediaPackage"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "video storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental MediaStore"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "video ad insertion",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental MediaTailor"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "video processing and delivery",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental Appliances & Software"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "video live streaming low latency",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Interactive Video service"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "video source connection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elemental Link"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "process and render particles",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Thinkbox Krakatoa",
+            "AWS Thinkbox Frost"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "compute management software for render farms",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Thinkbox Deadline",
+            "AWS Deadline Cloud"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "compressed animated geometry files",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Thinkbox XMesh"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "particle simulator",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Thinkbox Stoke"
+          ]
+        }
+      ]
+    }
+  ]
+}

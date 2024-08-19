@@ -1,0 +1,80 @@
+{
+  "name": "cloud-financial-management",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "cost monitoring",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Budgets"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cost data set",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cost and Usage Reports"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cost analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cost Explorer"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cost analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cost Explorer"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "instance cost",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Reserved Instance Reporting"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cost savings",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Savings plans"
+          ]
+        }
+      ]
+    }
+  ]
+}

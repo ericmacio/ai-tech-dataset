@@ -1,0 +1,227 @@
+{
+  "name": "analytics",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "domain": "enterprise search",
+      "description": "search document",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon CloudSearch"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "big data",
+      "description": "big data platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon EMR"
+          ]
+        },
+        {
+          "type": "editor",
+          "provider": "apache",
+          "products": [
+            "Apache Adoop",
+            "Apache Spark"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data analytics repository",
+      "description": "data lake",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS lake Formation"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "stream data",
+      "description": "data stream",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kinesis Data Stream"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "stream data",
+      "description": "video streams",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kinesis Video Stream"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data integration and ETL",
+      "description": "data transform and analysis",
+      "acronym": "ETL",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Data Firehose",
+            "AWS Glue"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data analytics platform",
+      "description": "data analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Kinesis Data Analytics"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "log analytics platform",
+      "description": "log analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon OpenSearch Service"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data analytics repository",
+      "description": "online analytical processing",
+      "acronym": "OLAP",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Redshift"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "business intelligence (BI) platform",
+      "description": "data analytics report",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Quicksight"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data preparation",
+      "description": "data preparation for analytics and machine learning",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Glue DataBrew"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "financial analytics",
+      "description": "financial analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon FinSpace"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data management and governance",
+      "description": "data management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon DataZone"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "data sharing",
+      "description": "data sharing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Clean Rooms"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "query engine",
+      "description": "database query",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Athena"
+          ]
+        }
+      ]
+    },
+    {
+      "domain": "customer and product data",
+      "description": "data matching",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Entity Resolution"
+          ]
+        }
+      ]
+    }
+  ]
+}

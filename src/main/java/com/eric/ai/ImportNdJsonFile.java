@@ -11,7 +11,7 @@ import com.eric.ai.service.CategoryDtoService;
 import java.util.List;
 
 
-public class ImportNewFile {
+public class ImportNdJsonFile {
 
     static final String NAME = "";
     static final String ORIG_FILENAME = "src/main/resources/ai-tech-dataset-files/orig/1_" + NAME + ".json";

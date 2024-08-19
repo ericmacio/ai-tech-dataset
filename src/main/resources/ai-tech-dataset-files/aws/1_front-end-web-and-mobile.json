@@ -1,0 +1,34 @@
+{
+  "name": "front-end-web-and-mobile",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "web and mobile application full stack development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Amplify"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "location functionality, maps, points of interest, geocoding, routing, tracking, geofencing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon location service"
+          ]
+        }
+      ]
+    }
+  ]
+}

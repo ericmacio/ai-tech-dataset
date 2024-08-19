@@ -1,0 +1,192 @@
+{
+  "name": "web",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Publish APIs to developers, partners, and employees securely and at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "API Management"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, scalable parameter storage for app configuration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Configuration"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Quickly create powerful cloud apps for web and mobile",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Service"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Enterprise scale search for app development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cognitive Search"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Maps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Add real-time web functionalities easily",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SignalR Service"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build and deploy Spring Boot apps with a fully managed service from Microsoft and VMware",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Spring Cloud"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, reliable content delivery network with global reach",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Content Delivery Network"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Send push notifications to any platform from any back end",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Notification Hubs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Streamlined full-stack development from source code to global high availability",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Static Web Apps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build rich communication experiences with the same secure platform used by Microsoft Teams",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Communication Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Web PubSub"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Easily add real-time collaborative experiences to your apps with Fluid Framework",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Fluid Relay�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Run containerized web apps on Windows and Linux",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Web App for containers"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

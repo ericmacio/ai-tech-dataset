@@ -1,0 +1,22 @@
+{
+  "name": "satellite",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "satellite communication",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Ground Station"
+          ]
+        }
+      ]
+    }
+  ]
+}

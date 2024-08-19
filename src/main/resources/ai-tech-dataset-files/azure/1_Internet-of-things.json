@@ -1,0 +1,296 @@
+{
+  "name": "internet-of-things",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Publish APIs to developers, partners, and employees securely and at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "API Management"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build or modernize scalable, high-performance apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cosmos DB"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Use IoT spatial intelligence to create models of physical environments",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Digital Twins"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build IoT solutions on a hosted platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure IoT Central"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Extend cloud intelligence and analytics to edge devices",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure IoT Edge"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Connect, monitor, and manage billions of IoT assets",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure IoT Hub"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "An enterprise-grade service for the end-to-end machine learning lifecycle",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Machine Learning"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create location-aware web and mobile applications using simple and secure geospatial services, APIs, and SDKs in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Maps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Making embedded IoT development and connectivity easy",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure RTOS"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Securely connect MCU-powered devices from the silicon to the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Sphere"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Consume Services privately on Azure Platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL Edge"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Real-time analytics on fast-moving streaming data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Stream Analytics"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Visualize IoT data in real time",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Time Series Insights"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Reliable event delivery at massive scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Event Grid"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build for mixed reality using AI sensors",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Kinect DK"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Automate the access and use of data across clouds",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Logic Apps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Send push notifications to any platform from any back end",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Notification Hubs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Long-term OS support and services to manage device updates and assess device health",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Windows 10 IoT Core Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Continuous asset discovery, vulnerability management, and threat detection for your Internet-of-things (IoT) and operational technology (OT) devices",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Defender for IoT"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Accelerate edge intelligence from silicon to service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Percept�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build intelligent edge solutions with world-class developer tools, long-term support, and enterprise-grade security.",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Windows for IoT"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Execute event-driven serverless code with an end-to-end development experience",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Functions"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

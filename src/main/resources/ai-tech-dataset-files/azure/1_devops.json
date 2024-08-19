@@ -1,0 +1,140 @@
+{
+  "name": "devops",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Create, host, and share packages with your team",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Artifacts"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Plan, track, and discuss work across your teams",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Boards"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Services for teams to share code, track work, and ship software",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DevOps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Quickly create environments using reusable templates and artifacts",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DevTest Labs"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Full observability into your applications, infrastructure, and network",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Monitor"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Continuously build, test, and deploy to any platform and cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Pipelines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Get unlimited, cloud-hosted private Git repos for your project",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Repos"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Test and ship confidently with an exploratory test toolkit",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Test Plans"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Use your favorite DevOps tools with Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "DevOps tool integrations"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Optimize app performance with high-scale load testing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Load Testing�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

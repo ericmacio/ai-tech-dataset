@@ -1,0 +1,426 @@
+{
+  "name": "artificial-intelligence",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "application anomalies detection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "AI Anomaly Detector"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "bots creation and connection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure AI Bot Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "search and retrieval",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure AI Search"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Design AI with Apache Spark�-based analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Databricks"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "An enterprise-grade service for the end-to-end machine learning lifecycle",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Machine Learning"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Cloud platform to host and share curated open datasets to accelerate development of machine learning models",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Open Datasets"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Add cognitive capabilities to apps with APIs and AI services",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cognitive Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "An AI service for quickly building video analytics solutions",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Video Analyzer�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Distill actionable information from images",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "computer Vision"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Automated image, text, and video moderation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Content Moderator"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Easily customize your own state-of-the-art computer vision models for your unique use case",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Custom Vision"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Rich pre-configured environment for AI development",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Data Science Virtual Machines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Detect, identify, analyze, organize, and tag faces in photos",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Face API"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "The AI-powered document extraction service that understands your forms",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Form Recognizer"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Empower users of all ages and abilities to read and comprehend text",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Immersive Reader"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build for mixed reality using AI sensors",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Kinect DK"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Teach your apps to understand commands from your users",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Language Understanding (LUIS)"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Power genome sequencing & research insights",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Genomics"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deliver personalized, relevant experiences for each of your users",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Personalizer"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create intelligent industrial control systems using simulations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Project Bonsai�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Distill information into conversational, easy-to-navigate answers",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "QnA Maker"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A Speech service feature that verifies and identifies speakers",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Speaker recognition"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A Speech service feature that accurately converts spoken audio to text",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Speech to text"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Easily integrate real-time speech translation to your app",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Speech translation"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Add natural language capabilities with a single API call",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Cognitive Service for Language"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A Speech service feature that converts text to lifelike speech",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Text to speech"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Easily conduct machine translation with a simple REST API call",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Translator"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "An AI service that monitors metrics and diagnoses issues",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Metrics Advisor"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A managed service purpose-built for development of virtual healthcare assistants",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Health Bot"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Accelerate edge intelligence from silicon to service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Percept�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Specialized services that enable organizations to accelerate time to value in applying AI to solve common scenarios",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Applied AI Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Apply advanced language models to a variety of use cases",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure OpenAI Service�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

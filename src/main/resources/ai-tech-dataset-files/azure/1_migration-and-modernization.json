@@ -1,0 +1,75 @@
+{
+  "name": "migration-and-modernization",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Simplify on-premises database migration to the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Database Migration Service"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Migrate"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Keep your business running with built-in disaster recovery service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Site Recovery"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Manage your cloud spending with confidence",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cost Management and Billing"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Appliances and solutions for data transfer to Azure and edge compute",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Data Box"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "name": "ai_machine-learning",
+  "parents": [
+    "master-categories",
+    "artificial-intelligence"
+  ],
+  "level": 2,
+  "childNames": [],
+  "items": [
+    {
+      "description": "hardware engine",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Inferentia"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "individualized recommendations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Personalize"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "dataset labeling",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon SageMaker Ground Truth"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "optical character recognition (OCR)",
+      "acronym": "OCR",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Textract"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "deep learning",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Deep Learning",
+            "AWS Deep Learning Containers",
+            "AWS Deeep Lens",
+            "AWS DeepRacer",
+            "AWS DeepComposer"
+          ]
+        },
+        {
+          "type": "editor",
+          "provider": "opensource",
+          "products": [
+            "TensorFlow",
+            "PyTorch"
+          ]
+        },
+        {
+          "type": "editor",
+          "provider": "opensource",
+          "products": [
+            "Apache MXNet"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "fraud detection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Fraud Detector"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "sdk",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Neuron"
+          ]
+        }
+      ]
+    }
+  ]
+}

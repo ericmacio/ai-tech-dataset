@@ -1,0 +1,62 @@
+{
+  "name": "identity",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Synchronize on-premises directories and enable single sign-on",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Active Directory (Azure AD)"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Manage your domain controllers in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Active Directory Domain Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Better protect your sensitive information�anytime, anywhere",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Information Protection"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Consumer identity and access management in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Active Directory External Identities"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

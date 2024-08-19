@@ -1,11 +1,10 @@
 package com.eric.ai.repository;
 
-import com.eric.ai.dto.CategoryDto;
-import com.eric.ai.dto.ItemDto;
-import com.eric.ai.dto.MastersRecordDto;
+import com.eric.ai.dto.*;
 import com.eric.ai.exceptions.FileNotFoundException;
 import com.eric.ai.exceptions.JsonFileException;
 import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import java.io.File;
@@ -13,7 +12,9 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Collection;
 import java.util.List;
+import java.util.stream.Stream;
 
 public class JsonFileRepository {
 
@@ -48,6 +49,16 @@ public class JsonFileRepository {
             } catch (IOException e) {
                 throw new JsonFileException("Cannot write to file: " + outputFileName + ". Exception: " + e.getMessage());
             }
+        }
+    }
+
+    public static void saveCategoryDtoFile(CategoryDto categoryDto, String outputFileName) {
+        ObjectMapper objectMapper = new ObjectMapper();
+        objectMapper.setSerializationInclusion(JsonInclude.Include.NON_NULL);
+        try {
+            objectMapper.writeValue(new File(outputFileName), categoryDto);
+        } catch (IOException e) {
+            throw new JsonFileException("Cannot write to file: " + outputFileName + ". Exception: " + e.getMessage());
         }
     }
 
@@ -86,6 +97,35 @@ public class JsonFileRepository {
             throw new JsonFileException("Cannot read line from file: " + fileName + ". Exception: " + e.getMessage());
         }
         return itemDtoList;
+    }
+
+    public static List<ItemContainerDto> getItemContainerDtoListFromFile(String fileName) {
+        Path path = Paths.get(fileName);
+        if(!Files.exists(path)) {
+            throw new FileNotFoundException("File does not exist: " + path);
+        }
+        byte[] jsonData = null;
+        try {
+            jsonData = Files.readAllBytes(path);
+        } catch (IOException e) {
+            throw new JsonFileException("Cannot read file content: " + fileName + ". Exception: " + e.getMessage());
+        }
+        List<ItemContainerDto> containerDtoList;
+        try {
+            ObjectMapper objectMapper = new ObjectMapper();
+            containerDtoList = objectMapper.readValue(jsonData, new TypeReference<List<ItemContainerDto>>() {});
+        } catch (IOException e) {
+            throw new JsonFileException("Cannot map json data to ItemContainerDto.class. Exception: " + e.getMessage());
+        }
+        return containerDtoList;
+    }
+
+    public static Stream<String> getItemDataStreamFromJsonFile(String fileName, String separator) {
+        List<ItemContainerDto> itemContainerDtoList = JsonFileRepository.getItemContainerDtoListFromFile(fileName);
+        return itemContainerDtoList.stream()
+                .map(ItemContainerDto::items)
+                .flatMap(Collection::stream)
+                .flatMap(item -> item.getDataStream(separator, null));
     }
 
     private static ItemDto createItemDtoFromLine(String line) {

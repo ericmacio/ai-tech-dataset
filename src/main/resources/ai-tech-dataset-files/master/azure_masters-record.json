@@ -1,0 +1,27 @@
+{
+    "name": "master-categories",
+    "level": 0,
+    "masters": [
+        "1_analytics",
+        "1_artificial-intelligence",
+        "1_compute",
+        "1_containers",
+        "1_database",
+        "1_developer-tools",
+        "1_devops",
+        "1_hybrid-multicloud",
+        "1_identity",
+        "1_integration",
+        "1_internet-of-things",
+        "1_management-and-governance",
+        "1_media-services",
+        "1_migration-and-modernization",
+        "1_mixed-reality",
+        "1_mobile",
+        "1_networking-and-content-delivery",
+        "1_security-and-compliance",
+        "1_storage",
+        "1_virtual-desktop-infrastructure",
+        "1_web"
+    ]
+}

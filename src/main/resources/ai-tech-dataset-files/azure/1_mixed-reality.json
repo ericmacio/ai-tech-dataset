@@ -1,0 +1,75 @@
+{
+  "name": "mixed-reality",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Use IoT spatial intelligence to create models of physical environments",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Digital Twins"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build for mixed reality using AI sensors",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Kinect DK"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Render high-quality, interactive 3D content with real-time streaming",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Remote Rendering"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Create multi-user, spatially aware mixed reality experiences",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Spatial Anchors"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Automatically align and anchor 3D content to objects in the physical world",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Object Anchors�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

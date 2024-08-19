@@ -1,0 +1,205 @@
+{
+  "name": "database",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Accelerate apps with high-throughput, low-latency data caching",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cache for Redis"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build or modernize scalable, high-performance apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cosmos DB"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Hybrid data integration at enterprise scale, made easy",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Data Factory"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deploy applications to the cloud with enterprise-ready, fully managed community MariaDB",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Database for MariaDB"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fully managed, scalable MySQL Database",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Database for MySQL"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fully managed, intelligent, and scalable PostgreSQL",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Database for PostgreSQL"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify on-premises database migration to the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Database Migration Service"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Modern SQL family for migration and app modernization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Managed, intelligent SQL in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL Database"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Consume Services privately on Azure Platform",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL Edge"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Managed, always up-to-date SQL instance in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure SQL Managed Instance"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Migrate SQL Server workloads to the cloud at lower total cost of ownership (TCO)",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "SQL Server on Azure Virtual Machines"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "NoSQL key-value store using semi-structured datasets",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Table Storage"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Modernize Cassandra data clusters with a managed instance in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Managed Instance for Apache Cassandra"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure confidential ledger�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

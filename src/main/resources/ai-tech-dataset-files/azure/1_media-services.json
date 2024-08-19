@@ -1,0 +1,88 @@
+{
+  "name": "media-services",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "A single player for all your playback needs",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Media Player"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, reliable content delivery network with global reach",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Content Delivery Network"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Securely deliver content using AES, PlayReady, Widevine, and Fairplay",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Content Protection"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Studio grade encoding at cloud scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Encoding"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deliver content to virtually all devices with ability to scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Live and On-Demand Streaming"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Encode, store, and stream video and audio at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Media Services"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

@@ -1,0 +1,231 @@
+{
+  "name": "security-and-compliance",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Fast, scalable parameter storage for app configuration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Configuration"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build secure, scalable, highly available web front ends in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Application Gateway"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Synchronize on-premises directories and enable single sign-on",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Active Directory (Azure AD)"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Manage your domain controllers in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Active Directory Domain Services"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Protect your multi-cloud and hybrid environments",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Defender for Cloud"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DDoS Protection"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Manage hardware security modules that you use in the cloud",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Dedicated HSM"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, reliable, and more secure cloud content delivery service with intelligent threat protection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Front Door"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Better protect your sensitive information�anytime, anywhere",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Information Protection"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Cloud-native SIEM and intelligent security analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Sentinel"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Safeguard and maintain control of keys and other secrets",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Key Vault"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Extend threat protection to any infrastructure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Defender for Cloud"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Establish secure, cross-premises connectivity",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "VPN Gateway"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Web Application Firewall"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Continuous asset discovery, vulnerability management, and threat detection for your Internet-of-things (IoT) and operational technology (OT) devices",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Defender for IoT"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A unified solution for remotely verifying the trustworthiness of a platform and integrity of the binaries running inside it",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Azure Attestation"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Tamperproof, unstructured data store hosted in trusted execution environments (TEEs) and backed by cryptographically verifiable evidence",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure confidential ledger�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

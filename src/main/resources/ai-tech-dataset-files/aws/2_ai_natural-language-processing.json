@@ -1,0 +1,47 @@
+{
+  "name": "ai_natural-language-processing",
+  "parents": [
+    "master-categories",
+    "artificial-intelligence"
+  ],
+  "level": 2,
+  "childNames": [],
+  "items": [
+    {
+      "description": "document data extract and analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Comprehend"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "health data extract and analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Comprehend Medical"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "text to speech",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Polly"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "master-categories",
+    "level": 0,
+    "masters": [
+        "1_analytics",
+        "1_application-integration",
+        "1_artificial-intelligence",
+        "1_blockchain",
+        "1_business-application",
+        "1_cloud-financial-management",
+        "1_compute",
+        "1_containers",
+        "1_database",
+        "1_developer-tools",
+        "1_end-user-computing",
+        "1_front-end-web-and-mobile",
+        "1_games",
+        "1_internet-of-things",
+        "1_management-and-governance",
+        "1_media-services",
+        "1_migration-and-modernization",
+        "1_networking-and-content-delivery",
+        "1_quantum-technologies",
+        "1_robotics",
+        "1_satellite",
+        "1_security-and-compliance",
+        "1_storage"
+    ]
+}

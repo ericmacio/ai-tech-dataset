@@ -1,0 +1,309 @@
+{
+  "name": "networking-and-content-delivery",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Build secure, scalable, highly available web front ends in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Application Gateway"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Private and fully managed RDP and SSH access to your virtual machines",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Bastion"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Protect your applications from Distributed Denial of Service (DDoS) attacks",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DDoS Protection"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Host your DNS domain in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure DNS"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Experience a fast, reliable, and private connection to Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure ExpressRoute"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Cloud-native and intelligent network firewall security",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Firewall"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deliver high availability and network performance to your apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Load Balancer"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Central network security policy and route management for globally distributed, software-defined perimeters",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Firewall Manager"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, reliable, and more secure cloud content delivery service with intelligent threat protection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Front Door"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Test how networking infrastructure changes will impact your customers' performance.",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Internet Analyzer�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Private access to services hosted on the Azure platform, keeping your data on the Microsoft network",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Private Link"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Fast, reliable content delivery network with global reach",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Content Delivery Network"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Network performance monitoring and diagnostics solution",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Network Watcher"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Route incoming traffic for high performance and availability",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Traffic Manager"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Provision private networks, optionally connect to on-premises datacenters",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Virtual Network"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Optimize and automate branch to branch connectivity through Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Virtual WAN"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Establish secure, cross-premises connectivity",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "VPN Gateway"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A cloud-native web application firewall (WAF) service that provides powerful protection for web apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Web Application Firewall"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Satellite ground station and scheduling services for fast downlinking of data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Orbital�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Enable network appliances to exchange routes dynamically with virtual networks in Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Route Server"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Extend Azure management for deploying 5G and SD-WAN network functions on edge devices",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Network Function Manager"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Centrally manage virtual networks in Azure from a single pane of glass",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Virtual Network Manager�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Rapidly deploy and manage private 5G networks at the enterprise edge",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Private 5G Core�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

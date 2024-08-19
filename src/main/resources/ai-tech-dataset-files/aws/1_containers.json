@@ -1,0 +1,53 @@
+{
+  "name": "containers",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "orchestrator",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Kubernetes Service (EKS)",
+            "Amazon Elastic Container Service (ECS)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "registry",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Container Registry (ECR)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "serverless compute engine",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Fargate",
+            "Red Hat OpenShift Service on AWS (ROSA)"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "redhat",
+          "products": [
+            "Openshift"
+          ]
+        }
+      ]
+    }
+  ]
+}

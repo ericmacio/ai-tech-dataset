@@ -1,0 +1,61 @@
+{
+  "name": "migration-and-modernization",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "collects usage, behavior, and configuration data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Application Discovery Service"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "secure file transfer",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Transfer Family"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "data synchronization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS DataSync"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "migration and modernization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Migration Hub",
+            "AWS Application Migration Service",
+            "AWS Migration Evaluator",
+            "AWS Mainframe Modernization"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "name": "storage",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "attached network storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic Block Store (EBS)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cloud storage connection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Storage Gateway"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "file system",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Elastic File System (EFS)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "disaster recovery",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Elastic Disaster Recovery (DRS)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "file server",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon FSx"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "edge computing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Snowball Edge",
+            "AWS Snowcone"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "backup",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Backup"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "simple storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Simple Storage service (S3)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cache storage",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon File Cache"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "robotics",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "simulation workload",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS RoboMaker"
+          ]
+        }
+      ]
+    }
+  ]
+}

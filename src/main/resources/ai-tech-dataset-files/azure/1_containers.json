@@ -1,0 +1,127 @@
+{
+  "name": "containers",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Fast, scalable parameter storage for app configuration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "App Configuration"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deploy and scale containers on managed Kubernetes",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Kubernetes Service (AKS)"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deploy and scale containers on managed Red Hat OpenShift",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Red Hat OpenShift"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build and deploy modern apps and microservices using serverless containers",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Container Apps�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Execute event-driven serverless code with an end-to-end development experience",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Functions"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Run containerized web apps on Windows and Linux",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Web App for containers"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Launch containers with hypervisor isolation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Container Instances"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deploy and operate always-on, scalable, distributed apps",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Service Fabric"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build, store, secure, and replicate container images and artifacts",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Container Registry"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

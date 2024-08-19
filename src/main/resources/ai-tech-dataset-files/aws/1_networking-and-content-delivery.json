@@ -1,0 +1,209 @@
+{
+  "name": "networking-and-content-delivery",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "virtual network connection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Transit Gateway"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "content delivery network",
+      "acronym": "CDN",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Cloud Front"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "Domain Name Server",
+      "acronym": "DNS",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Route 53"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "virtual network",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Virtual Private Cloud (VPC)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "application level networking",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS App Mesh"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cloud resource discovery",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cloud Map"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "network connection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Direct Connect"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "network performance",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Global Accelerator"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "virtual private network",
+      "acronym": "VPN",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Client VPN",
+            "AWS Site-to-Site VPN"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "load balancer",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Application Load Balancer",
+            "Network Load Balancer",
+            "Gateway Load Balancer"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "private link",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS PrivateLink"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "wide area network",
+      "acronym": "WAN",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Cloud WAN"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cellular network",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Private 5G"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "network traffic management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS VPC Lattice"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "secure access to corporate applications",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Verified Access"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "api gateway",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon API Gateway"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,88 @@
+{
+  "name": "integration",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Publish APIs to developers, partners, and employees securely and at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "API Management"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A unified solution that helps protect and combine health data in the cloud and generates healthcare insights with analytics",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Healthcare APIs�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Reliable event delivery at massive scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Event Grid"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Automate the access and use of data across clouds",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Logic Apps"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Connect across private and public cloud environments",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Service Bus"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Easily build real-time messaging web applications using WebSockets and the publish-subscribe pattern",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Web PubSub"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

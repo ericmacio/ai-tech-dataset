@@ -1,0 +1,309 @@
+{
+  "name": "management-and-governance",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "Simplify cloud management with process automation",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Automation"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Your personalized Azure best practices recommendation engine",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Advisor"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify data protection with built-in backup management at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Backup"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Enabling quick, repeatable creation of governed environments",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Blueprints�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Empowering service providers to manage customers at scale and with precision",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Lighthouse"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify management of cloud offerings",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Managed Applications"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Discover, assess, right-size, and migrate your on-premises virtual machines (VMs) to Azure",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Migrate"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Stay connected to your Azure resources�anytime, anywhere",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure mobile app"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Full observability into your applications, infrastructure, and network",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Monitor"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Implement corporate governance and standards at scale",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Policy"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify how you manage your app resources",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Resource Manager"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Deliver infrastructure as code for all your Azure resources using Resource Manager",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Resource Manager templates"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Personalized guidance and support for when issues in Azure services affect you",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Service Health"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Keep your business running with built-in disaster recovery service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Site Recovery"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Streamline Azure administration with a browser-based shell",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Cloud Shell"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Manage your cloud spending with confidence",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Cost Management and Billing"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Build, manage, and monitor all Azure products in a single, unified console",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Microsoft Azure portal"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Network performance monitoring and diagnostics solution",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Network Watcher"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Route incoming traffic for high performance and availability",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Traffic Manager"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify and optimize IT management with automated operations",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Automanage�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Simplify how you move multiple resources between Azure regions",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Resource Mover"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "A unified data governance solution that maximizes the business value of your data",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Purview"
+          ]
+        }
+      ],
+      "parents": []
+    },
+    {
+      "description": "Improve application resilience by introducing faults and simulating outages",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Azure Chaos Studio�PREVIEW"
+          ]
+        }
+      ],
+      "parents": []
+    }
+  ]
+}

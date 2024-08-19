@@ -1,0 +1,130 @@
+{
+  "name": "business-application",
+  "parents": ["master-categories"],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "intelligent assistant",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Alexa for business"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "online communication",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Chime",
+            "Amazon Chime SDK"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "email and calendar",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon WorkMail"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "contact center",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Connect"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "customer multichannel communication",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Pinpoint"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "email service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Simple Email Service (SES)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "document sharing and collaboration",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon WorkDocs",
+            "Amazon WorkDocs SDK"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "end-to-end encryption",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Wickr"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "supply chain application",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Supply Chain"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "software as a service applications connectivity",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS AppFabric"
+          ]
+        }
+      ]
+    }
+  ]
+}

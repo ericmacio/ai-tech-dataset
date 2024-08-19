@@ -1,0 +1,326 @@
+{
+  "name": "security-and-compliance",
+  "parents": [
+    "master-categories"
+  ],
+  "level": 1,
+  "childNames": [],
+  "items": [
+    {
+      "description": "hierarchical datastore",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Cloud directory"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "identity platform for web and mobile application",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Cognito"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "data, account and workload protection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon GuardDuty"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "vulnerability scan management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Inspector"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "sensitive data reporting",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Macie"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "compliance information access",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Artifact"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "public and private certificates management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Certificate Manager (ACMà"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cryptographic service for hardware security modules (HSMs)",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS CloudHSM"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "active directory",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Directory Service"
+          ]
+        },
+        {
+          "type": "cloud",
+          "provider": "azure",
+          "products": [
+            "Active Directory"
+          ]
+        },
+        {
+          "type": "editor",
+          "provider": "microsoft",
+          "products": [
+            "Active Directory"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "resource protection management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Firewall Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "identity and access management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Identity and Access Management (IAM)"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cryptographic keys management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Key management Service (AWS KMS"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "secret management",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Secret Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "cloud security posture management",
+      "acronym": "CSPM",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Security Hub"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "ddos protection",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Shield"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "firewall",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS WAF"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "security data analysis",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Detective"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "resources sharing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Resource Access Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "risk and compliance audit",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Audit Manager"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "firewall rules",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Network Firewall"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "code signing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Signer"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "private certificate authority",
+      "acronym": "CA",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Private Certificate Authority"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "authorization service",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Verified Permissions"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "security data centralization",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "Amazon Security Lake"
+          ]
+        }
+      ]
+    },
+    {
+      "description": "payment processing",
+      "instances": [
+        {
+          "type": "cloud",
+          "provider": "aws",
+          "products": [
+            "AWS Payment Cryptography"
+          ]
+        }
+      ]
+    }
+  ]
+}
